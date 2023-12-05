@@ -1,0 +1,14 @@
+C:\Users\matie\Documents\Avanade\bin\Debug\net8.0\Avanade.exe
+C:\Users\matie\Documents\Avanade\bin\Debug\net8.0\Avanade.deps.json
+C:\Users\matie\Documents\Avanade\bin\Debug\net8.0\Avanade.runtimeconfig.json
+C:\Users\matie\Documents\Avanade\bin\Debug\net8.0\Avanade.dll
+C:\Users\matie\Documents\Avanade\bin\Debug\net8.0\Avanade.pdb
+C:\Users\matie\Documents\Avanade\obj\Debug\net8.0\Avanade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matie\Documents\Avanade\obj\Debug\net8.0\Avanade.AssemblyInfoInputs.cache
+C:\Users\matie\Documents\Avanade\obj\Debug\net8.0\Avanade.AssemblyInfo.cs
+C:\Users\matie\Documents\Avanade\obj\Debug\net8.0\Avanade.csproj.CoreCompileInputs.cache
+C:\Users\matie\Documents\Avanade\obj\Debug\net8.0\Avanade.dll
+C:\Users\matie\Documents\Avanade\obj\Debug\net8.0\refint\Avanade.dll
+C:\Users\matie\Documents\Avanade\obj\Debug\net8.0\Avanade.pdb
+C:\Users\matie\Documents\Avanade\obj\Debug\net8.0\Avanade.genruntimeconfig.cache
+C:\Users\matie\Documents\Avanade\obj\Debug\net8.0\ref\Avanade.dll
